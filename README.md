@@ -1,24 +1,24 @@
 # 👋 Hi there, my name is Alvaro Reinoso
-### I'm a Systems Analist student
+### I'm a Systems Analist 
 
 ![https://github.com/alvarorsor]
 
-I am a .NET software developer.
-
 ## About me
 
-I consider myself a proactive and curious person in the world of computer technology, always willing new changes and with goods interpersonal relationships for work in teams, actually do i'am the last university subjets.
-I have experience in web development in educational and professional work that I did.
-I am currently in the last stage of my career, with only me 2 finals to have my professional title.
+Me considero una persona proactiva y curiosa en el mundo de la informática, siempre dispuesto a nuevos cambios y para el trabajo en equipo.
+Tengo experiencia en desarrollo web en trabajos educativos y profesionales que realicé.
+Me recibi de Analista de Sistemas en el año 2024 en la Universidad Tecnologica Nacional - Facultad Regional de Tucuman.
 
 ## Technologies:
 ![.NET](https://img.shields.io/badge/.NET-8A2BE2)</br>
 ![C#](https://img.shields.io/badge/C%23-blue)</br>
-![SQL SERVER](https://img.shields.io/badge/SQL%20SERVER-green)</br>
 ![JAVASCRIPT](https://img.shields.io/badge/javascript-pink)</br>
+![NODEJS](https://img.shields.io/badge/javascript-pink)</br>
 ![HTML CSS](https://img.shields.io/badge/HTML%20CSS-red)</br>
 ![BOOTSTRAP](https://img.shields.io/badge/BOOTSTRAP-yellow)</br>
 ![REACT JS](https://img.shields.io/badge/REACT%20JS-celest)</br>
+![SQL SERVER](https://img.shields.io/badge/SQL%20SERVER-green)</br>
+![MONGO DB](https://img.shields.io/badge/SQL%20SERVER-green)</br>
 
 ## My projects:
 
